@@ -14,4 +14,4 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christopher-villanueva-a51939282/)
 
 
-[![Christopher's GitHub stats](https://github-readme-stats.vercel.app/api?username=BoundlessFate&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+[![Christopher's GitHub stats](https://github-readme-stats.vercel.app/api?username=BoundlessFate&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
