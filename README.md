@@ -9,4 +9,6 @@
 🎮 Outside of programming, I find myself playing video games with friends, playing Golf, and watching/reading One Piece 👒.
 
 ![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
+
+
 ![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
