@@ -3,7 +3,7 @@
 
 ## 😎 About Me
 ---
-<img width="604" alt = "Image" src="https://github.com/BoundlessFate/BoundlessFate/blob/main/image0%20(1).jpeg?raw=true">
+<img width="250" alt = "Image" src="https://github.com/BoundlessFate/BoundlessFate/blob/main/image0%20(1).jpeg?raw=true">
 
 🤓 I am Christopher Villanueva, a Sophomore student at RPI pursuing my **Bachelors's Degree** in *Computer Science*. I am also pursuing a **minor in AI**. Over the last few years, I have delved into multiple programming languages primarily focused on **back-end development**.
 
