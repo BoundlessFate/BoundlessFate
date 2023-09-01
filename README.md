@@ -8,4 +8,4 @@
 
 🎮 Outside of programming, I find myself playing video games with friends, playing Golf, and watching/reading One Piece 👒.
 
-![<youtube.com>](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)(youtube.com)
+![<youtube.com>](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white&url=youtube.com)(youtube.com)
