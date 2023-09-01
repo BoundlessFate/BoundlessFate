@@ -3,7 +3,7 @@
 
 ## 😎 About Me
 ---
-![Image](/image0%20(1).jpeg?raw=true "Me" | width = 100)
+![Image](/image0%20(1).jpeg|width=100?raw=true "Me")
 
 🤓 I am Christopher Villanueva, a Sophomore student at RPI pursuing my **Bachelors's Degree** in *Computer Science*. I am also pursuing a **minor in AI**. Over the last few years, I have delved into multiple programming languages primarily focused on **back-end development**.
 
