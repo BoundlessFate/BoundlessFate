@@ -23,7 +23,9 @@
 ---
 
 💯 AP CSA Score: 5
+
 🅰️ A in both Data Structures and CS1 @ RPI
+
 💪 **3.65 GPA**
 
 
