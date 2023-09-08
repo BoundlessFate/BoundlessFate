@@ -28,6 +28,8 @@
 
 💪 **3.65 GPA**
 
+RCOS Member
+
 
 ## 📈 Stats
 ---
